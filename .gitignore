@@ -1,0 +1,25 @@
+# dependencies
+/node_modules
+
+# production
+/build
+/dist
+
+# vscode settings
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+
+# temp folders / files
+*._backup*
+*._legacy*
+*._temp*
+*._labs*
+*._dev*
+.file-status/
+
+#history
+.history/
+.lh/
+
+.ameliance*.sh
